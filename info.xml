@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.civicoop.exclusivegroups" type="module">
+  <file>exclusivegroups</file>
+  <name>Exclusive Groups</name>
+  <description>Enables making membership of child groups exclusive</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>CiviCoop (Erik Hommel)</author>
+    <email>erik.hommel@civicoop.org</email>
+  </maintainer>
+  <releaseDate>2014-05-06</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>Module being developed</comments>
+  <civix>
+    <namespace>CRM/Exclusivegroups</namespace>
+  </civix>
+</extension>
